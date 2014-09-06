@@ -47,7 +47,7 @@ public class CharacterSelection extends Activity {
             R.drawable.marth_full, R.drawable.roy_full,
             R.drawable.olimar_full, R.drawable.rob_full,
             R.drawable.gdub_full, R.drawable.snake_full,
-            R.drawable.sonic_
+            R.drawable.sonic_full
     };
 
     @Override
